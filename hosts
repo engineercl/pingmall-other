@@ -1,7 +1,4 @@
 
-
-
-# ÆÁ±ÎAdobe¼¤»î·þÎñÆ÷£º
 0.0.0.0 activate.adobe.com
 0.0.0.0 practivate.adobe.com
 0.0.0.0 ereg.adobe.com
@@ -25,8 +22,8 @@
 127.0.0.1 www.caolei.com
 127.0.0.1 api.pingmall.com
 
-192.168.59.130 image.pingmall.com
-192.168.59.130 image.leyou.com
+192.168.59.132 image.pingmall.com
+192.168.59.132 image.leyou.com
 
 127.0.0.1 manage.pingmall.com
 127.0.0.1 www.pingmall.com
